@@ -1,4 +1,0 @@
-implicit none
-
-
-end

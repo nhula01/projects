@@ -1,9 +1,0 @@
-Machine Learning resources
-
-Videos: 
-Andrew Ng: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
--- main_notes + exercises: https://github.com/maxim5/cs229-2018-autumn
-Patrick Loeber: https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
-freeCodeCamp (Daniel Bourke): https://www.youtube.com/watch?v=V_xro1bcAuA
--- book version: https://www.learnpytorch.io
--- code: https://github.com/mrdbourke/pytorch-deep-learning

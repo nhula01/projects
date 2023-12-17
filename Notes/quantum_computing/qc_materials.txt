@@ -1,4 +1,0 @@
-Quantum computing materials:
-
-Theory: Quantum Computation and Quantum Information (Michael Nielsen and Isaac Chuang)
-        Series Lecture by John Preskill
