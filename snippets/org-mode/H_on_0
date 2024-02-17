@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Hk0
+# key: Hk0
+# --
+
+\\frac{\\ensuremath{\\left| ${1:0} \\right\\rangle} +
+\\ensuremath{\\left| ${2:1} \\right\\rangle}}{\\sqrt{2}} $0

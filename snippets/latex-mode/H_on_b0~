@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Hb0
+# key: Hb0
+# --
+
+\\frac{\\ensuremath{\\left\\langle ${1:0} \\right| +
+\\ensuremath{\\left\\langle ${2:1} \\right|}{\\sqrt{2}}$0

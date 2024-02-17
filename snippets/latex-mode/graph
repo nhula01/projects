@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gr
+# key: gr
+# --
+
+\includegraphics[width=${1:5cm}, height=${2:4cm}]{${3:Image Name}}

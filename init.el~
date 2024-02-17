@@ -1,0 +1,17 @@
+(add-hook 'LaTeX-mode-hook 'turn-on-reftex)   ; with AUCTeX LaTeX mode
+
+(add-to-list 'load-path
+              "~/.emacs.d/packages/yasnippet")
+(require 'yasnippet)
+(yas-global-mode t)
+
+
+(setq yas-snippet-dirs
+      '("~/.emacs.d/snippets"                 ;; personal snippets
+        "~/.emacs.d/snippets/emacs-lisp-mode"           ;; foo-mode and bar-mode snippet collection ;; the yasmate collection
+        ))
+
+(yas-global-mode 1) ;; or M-x yas-reload-all if you've started YASnippet already.
+
+
+

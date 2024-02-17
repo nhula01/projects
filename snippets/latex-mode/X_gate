@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: X
+# key: X
+# --
+
+\\left(\\begin{array}{cc}
+      0 & 1 \\\
+      1 & 0
+\\end{array}\\right)

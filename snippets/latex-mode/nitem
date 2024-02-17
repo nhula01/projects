@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: nitem
+# key: nitem
+# --
+
+\item[${1:Number})] ${2:Write Problem Here}
+    \begin{proof}
+	$3
+    \end{proof}
+$0

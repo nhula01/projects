@@ -1,0 +1,85 @@
+;; -*- mode: emacs-lisp; eval: (progn (pp-buffer) (indent-buffer)) -*-
+((def-persp "main"
+            ((def-buffer "config.el" "/Users/phihung/.doom.d/config.el" emacs-lisp-mode)
+             (def-buffer "packages.el" "/Users/phihung/.doom.d/packages.el" emacs-lisp-mode)
+             (def-buffer "lesson1.py" "/Users/phihung/quiskit_env/Working/lesson1.py" python-mode))
+            (def-wconf
+             (((min-height . 4)
+               (min-width . 20)
+               (min-height-ignore . 3)
+               (min-width-ignore . 10)
+               (min-height-safe . 1)
+               (min-width-safe . 4)
+               (min-pixel-height . 56)
+               (min-pixel-width . 140)
+               (min-pixel-height-ignore . 42)
+               (min-pixel-width-ignore . 70)
+               (min-pixel-height-safe . 14)
+               (min-pixel-width-safe . 28))
+              hc
+              (pixel-width . 1436)
+              (pixel-height . 525)
+              (total-width . 205)
+              (total-height . 38)
+              (normal-height . 1.0)
+              (normal-width . 1.0)
+              (combination-limit)
+              (leaf
+               (pixel-width . 658)
+               (pixel-height . 525)
+               (total-width . 94)
+               (total-height . 38)
+               (normal-height . 1.0)
+               (normal-width . 0.4572301425661912)
+               (parameters
+                (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                           (0 1 .
+                                              [("/Users/phihung/quiskit_env/Working/lesson1.py" 33 "kdl9ec")
+                                               nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                           -1)))
+               (buffer "lesson1.py"
+                       (selected . t)
+                       (hscroll . 0)
+                       (fringes 8 8 nil nil)
+                       (margins nil)
+                       (scroll-bars nil 0 t nil 0 t nil)
+                       (vscroll . 0)
+                       (dedicated)
+                       (point . 34)
+                       (start . 1))
+               (prev-buffers
+                ("*doom*" 1 1741)
+                ("*scratch*" 1 1)))
+              (leaf
+               (last . t)
+               (pixel-width . 778)
+               (pixel-height . 525)
+               (total-width . 111)
+               (total-height . 38)
+               (normal-height . 1.0)
+               (normal-width . 0.5427698574338086)
+               (parameters
+                (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                           (0 5 .
+                                              [("/Users/phihung/quiskit_env/Working/lesson1.py" 33 "kdl9ec")
+                                               ("/Users/phihung/.doom.d/packages.el" 1 "u0fofg")
+                                               ("/Users/phihung/.doom.d/packages.el" 2115 "hd01kx")
+                                               ("/Users/phihung/.doom.d/packages.el" 2112 "ljule1")
+                                               ("/Users/phihung/.doom.d/packages.el" 2264 "pe1ogg")
+                                               nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                           -1)))
+               (buffer "packages.el"
+                       (selected)
+                       (hscroll . 0)
+                       (fringes 8 8 nil nil)
+                       (margins nil)
+                       (scroll-bars nil 0 t nil 0 t nil)
+                       (vscroll . 0)
+                       (dedicated)
+                       (point . 2326)
+                       (start . 1784))
+               (prev-buffers
+                ("packages.el" 1784 2326)
+                ("lesson1.py" 1 34)))))
+            (def-params nil)
+            nil nil nil))

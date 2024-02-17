@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Hb0
+# key: Hb0
+# --
+
+\\frac{\\ensuremath{\\left| ${1:\\psi} \\right\\rangle} +
+\\ensuremath{\\left\\langle ${2:\\phi} \\right|}{\\sqrt{2}} $0

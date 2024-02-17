@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: fig
+# key: fig
+# --
+\begin{figure}
+\end{figure}

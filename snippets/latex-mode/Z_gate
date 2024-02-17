@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Z
+# key: Z
+# --
+
+
+\\left(\\begin{array}{cc}
+      1 & 0 \\\
+      0 & -1
+\\end{array}\\right)

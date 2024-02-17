@@ -1,0 +1,28 @@
+# -*- mode: snippet -*-
+# name: setup
+# key: setup
+# --
+
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{geometry}[margins=1in]
+\title{${1:MAT310 Homework 3}}
+\author{Phi Hung Nguyen}
+\date{${2:"`(current-time-string)`"}}
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+    \item[${3:Number})] ${4:Write Problem Here}
+        \begin{proof}
+            $5
+        \end{proof}
+$0
+\end{enumerate}
+
+
+\end{document}

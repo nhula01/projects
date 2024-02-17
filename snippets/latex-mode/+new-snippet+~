@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: test
+# key: ttt
+# --
+
+for i in x
+show me 

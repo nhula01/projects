@@ -1,0 +1,32 @@
+emacs try.pdf
+open try.pdf
+open assignment.pdf
+cd EEE492
+open assignment1.pdf
+open assignment1.pdf
+emacs assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+emacs assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+ls
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+open assignment1.pdf
+python3 test.py
+ls
+mkdir orgfolder
+cd orgfolder

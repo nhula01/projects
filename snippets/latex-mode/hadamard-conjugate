@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: hdmc
+# key: hdmc
+# --
+
+\\frac{1}{\\sqrt{2}}\\left(\\begin{array}{cc}
+      1 & 1 \\\
+      1 & -1
+\\end{array}\\right) $0
